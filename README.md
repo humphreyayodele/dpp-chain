@@ -4,7 +4,7 @@ A physics-based simulation framework and a software digital pulse processing (DP
 
 > U. Anekwe, H. A. Peleyeju and C. Emeruwa, *A physics-based simulation framework for designing and testing digital pulse processing chains for low-cost NaI(Tl) gamma-ray spectrometry: description and verification*, [journal, year], [DOI] — to be completed on acceptance
 
-Archived version: [Zenodo DOI]
+Archived version: DOI: 10.5281/zenodo.24147429
 
 ## What is here
 
@@ -60,7 +60,7 @@ Please cite the paper and the archived version of this repository (`CITATION.cff
 
 ## Use of AI assistance
 
-Some of the analysis and plotting scripts were written with the help of an AI assistant (Claude, Anthropic). The signal model and processing chain were designed and verified by H. A. Peleyeju, and every script was run and checked on his computer. The paper's declaration describes this in full.
+Some of the analysis and plotting scripts were written with the help of an AI assistant (Claude, Anthropic). The signal model and processing chain were designed and verified by H. A. Peleyeju, and every script was run and checked on his computer.
 
 ## Author of the code
 

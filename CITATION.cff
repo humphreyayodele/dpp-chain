@@ -14,9 +14,11 @@ authors:
     given-names: Chibuzor
     orcid:
     affiliation: "Department of Physics, Federal University Otuoke, Bayelsa State, Nigeria"
+version: gamma-dpp-chain
+date-released: 2026-11-11
 version: 1.0.0
 license: MIT
-repository-code: "https://github.com/humphreyayodele/gamma-dpp-chain"
+repository-code: "https://github.com/humphreyayodele/dpp-chain"
 keywords:
   - digital pulse processing
   - gamma-ray spectrometry

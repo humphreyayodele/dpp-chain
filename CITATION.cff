@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 title: "A physics-based simulation framework for designing and testing digital pulse processing chains for low-cost NaI(Tl) gamma-ray spectrometry: description and verification"
 authors:
@@ -14,9 +14,8 @@ authors:
     given-names: Chibuzor
     orcid:
     affiliation: "Department of Physics, Federal University Otuoke, Bayelsa State, Nigeria"
-version: gamma-dpp-chain
+version: gamma-dpp-chain v1.0.0
 date-released: 2026-11-11
-version: 1.0.0
 license: MIT
 repository-code: "https://github.com/humphreyayodele/dpp-chain"
 keywords:

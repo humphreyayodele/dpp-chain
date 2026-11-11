@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "A physics-based simulation framework for designing and testing digital pulse processing chains for low-cost NaI(Tl) gamma-ray spectrometry: description and verification"
+authors:
+  - family-names: Peleyeju
+    given-names: Humphrey Ayodele
+    orcid: "https://orcid.org/0009-0004-9043-9072"
+    affiliation: "Department of Physics, Federal University Otuoke, Bayelsa State, Nigeria"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/humphreyayodele/gamma-dpp-chain"
+keywords:
+  - digital pulse processing
+  - gamma-ray spectrometry
+  - NaI(Tl) scintillator
+  - pile-up rejection

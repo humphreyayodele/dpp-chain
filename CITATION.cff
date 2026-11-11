@@ -14,6 +14,11 @@ authors:
     given-names: Chibuzor
     affiliation: "Department of Physics, Federal University Otuoke, Bayelsa State, Nigeria"
 version: "gamma-dpp-chain v1.0.0"
+doi: "10.5281/zenodo.24147429"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24147429"
+    description: "Concept DOI for all versions of gamma-dpp-chain"
 date-released: 2026-11-11
 license: MIT
 repository-code: "https://github.com/humphreyayodele/dpp-chain"

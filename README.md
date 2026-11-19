@@ -2,7 +2,7 @@
 
 A physics-based simulation framework and a software digital pulse processing (DPP) chain for low-cost NaI(Tl) gamma-ray spectrometry. This is the code and data behind the paper:
 
-> U. Anekwe, H. A. Peleyeju and C. Emeruwa, *A physics-based simulation framework for designing and testing digital pulse processing chains for low-cost NaI(Tl) gamma-ray spectrometry: description and verification*, [journal, year], [DOI] — to be completed on acceptance
+> U. Anekwe, H. A. Peleyeju and C. Emeruwa, *A physics-based simulation framework for designing and testing digital pulse processing chains for low-cost NaI(Tl) gamma-ray spectrometry: description and verification*, World Journal of Advanced Research and Reviews (WJARR) Volume 32 - Issue 2 (November 2026), DOI: 10.30574/wjarr.2026.32.2.2908.
 
 Archived version: DOI: 10.5281/zenodo.24147429
 

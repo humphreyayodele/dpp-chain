@@ -12,6 +12,7 @@ authors:
     affiliation: "Department of Physics, Federal University Otuoke, Bayelsa State, Nigeria"
   - family-names: Emeruwa
     given-names: Chibuzor
+    orcid: "https://orcid.org/0009-0009-9401-9194"
     affiliation: "Department of Physics, Federal University Otuoke, Bayelsa State, Nigeria"
 version: "gamma-dpp-chain v1.0.0"
 doi: "10.5281/zenodo.24147429"
